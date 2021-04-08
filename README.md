@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sinnjeongahTW
-- 😃 I like Pengsu!!
+- 😃 I like Pengsoo!!
 
 <!---
 sinnjeongahTW/sinnjeongahTW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
